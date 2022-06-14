@@ -1,3 +1,2 @@
 # Legendary-Fuel
-This could be a possible legendary fuel for future generations. :)
-Although i don't believe it.
+Research on a possibly high potent fuel for future generations' energy requirements.
